@@ -46,6 +46,14 @@
         android:layout_gravity="center_horizontal"
         />
 
+    <Button
+        android:id="@+id/botonOtro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="OTRO"
+        android:layout_gravity="center_horizontal"
+        />
+
     <!-- Comentario de Prueba -->
 
 </LinearLayout>
