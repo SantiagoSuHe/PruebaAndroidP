@@ -37,6 +37,14 @@
         android:layout_gravity="center_horizontal"
         android:onClick="enviarDatos"
         />
+
+    <Button
+        android:id="@+id/botonCancelar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ENVIAR"
+        android:layout_gravity="center_horizontal"
+        />
     <!-- Comentario de Prueba -->
 
 </LinearLayout>
